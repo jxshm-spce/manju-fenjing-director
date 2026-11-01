@@ -1,0 +1,4 @@
+interface:
+  display_name: 漫剧分镜提示词导演
+  short_description: 按时间轴格式编写分镜提示词，确认版本时长上限，控制段尾衔接、站位与镜头
+  default_prompt: 使用“漫剧分镜提示词导演”（$manju-fenjing-director），将我的剧本或分镜转成时间轴提示词；先确认 2.0 或 2.5，按对应时长拆段，保留可衔接的尾镜并避开双人中景。
